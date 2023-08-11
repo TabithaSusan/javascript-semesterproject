@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+.jumbotron {
+    background: url("../img/kaufmann-mercantile-a7Woj8W6J0s-unsplash.jpg") no-repeat center;
+}
+.btn-primary {
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: olive;
+    color: olive;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
